@@ -48,8 +48,5 @@ def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
   matrix[row][column] = new_value
-<<<<<<< HEAD
   matrix
-=======
->>>>>>> ae134c1ee504e6439dcda02da58f569320e16749
 end
